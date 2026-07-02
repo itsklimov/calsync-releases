@@ -10,6 +10,8 @@ Macs — work and personal — so every calendar knows when you're actually free
 No account, no Google, no third-party cloud: only anonymous hashed busy blocks
 ever leave your machine, synced through a tiny server you host yourself.
 
+![How CALSync mirrors busy time between your Macs](img/hero.png)
+
 <!-- screenshot: img/menubar.png — menu bar dropdown showing last sync + Sync Now -->
 
 ## How it works
