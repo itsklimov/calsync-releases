@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CALSync</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Thu, 02 Jul 2026 10:25:55 -0700</pubDate>
+            <link>https://github.com/itsklimov/calsync-releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/itsklimov/calsync-releases/releases/download/downloads/CALSync-0.2.0.zip" length="3780163" type="application/octet-stream" sparkle:edSignature="iCUIDoGj+1Q3y1KrNBWGdOjbrv8r7A/afyJeZEjvjoz6jACm/NMfTOdAWZ7ibLE85G2rSCM72yANW15aHweyDg=="/>
+        </item>
+    </channel>
+</rss>
