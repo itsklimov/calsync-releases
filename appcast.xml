@@ -3,13 +3,26 @@
     <channel>
         <title>CALSync</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Thu, 02 Jul 2026 11:48:35 -0700</pubDate>
+            <link>https://github.com/itsklimov/CALSync</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/itsklimov/CALSync/releases/download/downloads/CALSync-0.2.2.zip" length="3780220" type="application/octet-stream" sparkle:edSignature="MgNvns0Gnir0N3EWz7k7cJk6eTt73vGDRrzTW5SZctm9HJVm560dnPhyiYtX5iVXbmkvFNDL2yeu6Em8jV8vCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/itsklimov/CALSync/releases/download/downloads/CALSync4-3.delta" sparkle:deltaFrom="3" length="16770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xq7Ggz0WWQzP2DE24qjwz8xLSHU0Y6nT2UTIcmuuz8dKZF8xvhifwekyWJMpeZMbBql2c5Lh3d6JjBv7oonXDQ=="/>
+                <enclosure url="https://github.com/itsklimov/CALSync/releases/download/downloads/CALSync4-2.delta" sparkle:deltaFrom="2" length="17246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KR+RRRIhkBVezQrXgV3lzeMDpcFwFy9NkVtPC4AVB5PFHYS8BilXxIOwbyQFa3l+YdE/scGQGz6VqeUQOXSjCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Thu, 02 Jul 2026 11:21:46 -0700</pubDate>
             <link>https://github.com/itsklimov/calsync-releases</link>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/itsklimov/calsync-releases/releases/download/downloads/CALSync-0.2.1.zip" length="3780170" type="application/octet-stream" sparkle:edSignature="NU94mhyU80YBmvdRnBSFfav+ZVK57f7tD2YxZNvaT7RYCx1KexnoYZt6FsfWf9n/ufCfeMFul6llIwJLUeMnAg=="/>
+            <enclosure url="https://github.com/itsklimov/CALSync/releases/download/downloads/CALSync-0.2.1.zip" length="3780170" type="application/octet-stream" sparkle:edSignature="NU94mhyU80YBmvdRnBSFfav+ZVK57f7tD2YxZNvaT7RYCx1KexnoYZt6FsfWf9n/ufCfeMFul6llIwJLUeMnAg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/itsklimov/calsync-releases/releases/download/downloads/CALSync3-2.delta" sparkle:deltaFrom="2" length="13790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1b6WIqYosjC+xrNAwzXy+TOc/Mfqndlvadw0Xww9B1liQdXnxxGKU6qfe86scZidfqY2ys5BJTNe1AJS8E9DBQ=="/>
             </sparkle:deltas>
@@ -21,7 +34,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/itsklimov/calsync-releases/releases/download/downloads/CALSync-0.2.0.zip" length="3780163" type="application/octet-stream" sparkle:edSignature="iCUIDoGj+1Q3y1KrNBWGdOjbrv8r7A/afyJeZEjvjoz6jACm/NMfTOdAWZ7ibLE85G2rSCM72yANW15aHweyDg=="/>
+            <enclosure url="https://github.com/itsklimov/CALSync/releases/download/downloads/CALSync-0.2.0.zip" length="3780163" type="application/octet-stream" sparkle:edSignature="iCUIDoGj+1Q3y1KrNBWGdOjbrv8r7A/afyJeZEjvjoz6jACm/NMfTOdAWZ7ibLE85G2rSCM72yANW15aHweyDg=="/>
         </item>
     </channel>
 </rss>
